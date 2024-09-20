@@ -5,9 +5,8 @@ Journal is an Android application designed to provide users with a secure and us
 ## Project Overview
 
 - **Project Name:** Journal
-- **GitHub Link:** [Journal App Repository](https://github.com/Rithvik99/journal_app)
-- **Author:** Rithvik Ramasani
-- **Student ID:** IMT2020543
+- **GitHub Link:** [Journal App Repository](https://github.com/RamasaniRajitha/Journal)
+- **Author:** Rajitha Ramasani
 
 ## Project Description
 
@@ -95,7 +94,7 @@ Before you get started, make sure you have the following installed:
 Clone the repository to your local machine and navigate to the project directory:
 
 ```bash
-git clone https://github.com/Rithvik99/journal_app
+git clone https://github.com/RamasaniRajitha/Journal
 cd journal_app
 ```
 
